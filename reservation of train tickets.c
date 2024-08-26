@@ -1,13 +1,5 @@
 //This Project is about train ticket reservation for particular locations
-//Following people are part of this project
-//1.Isha Jaiswal - 2201CS32
-//2.Janvi Kumari - 2201CE24
-//3.Sravani      - 2201CE28
-//4.Chanchal Tolani - 2201PH09
-//5.Diksha Talukdar - 2201CB23
-//6.Mounika       - 2201EE35
-//7.Kavya Shree      2201CS37
-//8.Rajesh        - 2201CB36
+
 #include<stdio.h>                   
 #include<stdlib.h>
 #include<string.h>
